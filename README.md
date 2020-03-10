@@ -1,1 +1,1 @@
-# This notebook is a quick analysis of raw dna data provided by familytreeDNA to test if my brother Paul and I are actually identical twins.  Note that I have not shared the data files for privacy reasons.  
+This notebook is a quick analysis of raw dna data provided by familytreeDNA to test if my brother Paul and I are actually identical twins.  Note that I have not shared the data files for privacy reasons.  
